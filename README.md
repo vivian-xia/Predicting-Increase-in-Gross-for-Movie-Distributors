@@ -11,4 +11,6 @@ The following are the links to the various deliverables of the project:
       Deepnote Published Report & Data Analysis: https://deepnote.com/publish/e01ec772-d1ed-4eee-84ec-9a427af57e84
       Data Exploration Dashboard: https://dry-dusk-65793.herokuapp.com/
  
-
+Deployment Key: 
+      Deepnote: vivian-xia/MA346_Final_Project
+      SHA256:qotGQIi4FOByl5+c5RfJa5I4iWhnMgVJ+53BKdvNSNk
