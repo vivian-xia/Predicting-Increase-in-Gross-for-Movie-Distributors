@@ -12,6 +12,10 @@ Our data source, https://www.the-numbers.com/, contains various information on m
 Our main goal is to see how the pandemic impacted the movie industry by comparing different measurements of all the years.
 ''')
 
+st.write('''
+Here is the link to our GitHub repository: https://github.com/vivian-xia/MA346_Final_Project 
+''')
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
