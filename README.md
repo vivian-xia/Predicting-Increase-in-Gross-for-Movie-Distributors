@@ -9,6 +9,6 @@ The following are the links to the various deliverables of the project:
 
       Deepnote Published Data Cleaning: https://deepnote.com/project/e01ec772-d1ed-4eee-84ec-9a427af57e84
       Deepnote Published Report & Data Analysis: https://deepnote.com/publish/e01ec772-d1ed-4eee-84ec-9a427af57e84
-      Data Exploration Dashboard:
+      Data Exploration Dashboard: https://dry-dusk-65793.herokuapp.com/
  
 
