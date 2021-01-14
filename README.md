@@ -1,4 +1,4 @@
-# MA346_Final_Project
+# Predicting Increase in Gross for Movie Distributors 
 #### By Cassidy Gorsky and Vivian Xia
 
 #### Introduction
